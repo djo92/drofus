@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "jsXS7+1HJT/Cgr6vlNpbVEuNFpHVY/Fnt/FP43KfkcM5wf4K5G7BjhxXHXPuYWroqJWWUO+EVTl4LDkMpxq2KA==",
+  "success": false,
+  "projectFilePath": "C:\\Siemens\\Code\\Repos\\drofus-console-app\\UnitTests\\UnitTests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'MSTest.TestAdapter (>= 3.0.4)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, Nuget.",
+      "libraryId": "MSTest.TestAdapter",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'MSTest.TestFramework (>= 3.0.4)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, Nuget.",
+      "libraryId": "MSTest.TestFramework",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Test.Sdk (>= 17.6.0)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, Nuget.",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'coverlet.collector (>= 6.0.0)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, Nuget.",
+      "libraryId": "coverlet.collector",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

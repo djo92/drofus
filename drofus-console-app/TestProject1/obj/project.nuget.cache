@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "50q+M1AevqI4HpjJyh4FaYU8EGxrbfp4OnpOA1GbPP/2htP33oaMSR1J/t2JrWCk52Befq5W12QdYQJkD9MPJg==",
+  "success": true,
+  "projectFilePath": "C:\\Siemens\\Code\\Repos\\drofus-console-app\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djohansen\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\djohansen\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "C:\\Users\\djohansen\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.0\\microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "C:\\Users\\djohansen\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "C:\\Users\\djohansen\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.0\\microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "C:\\Users\\djohansen\\.nuget\\packages\\mstest.testadapter\\3.0.4\\mstest.testadapter.3.0.4.nupkg.sha512",
+    "C:\\Users\\djohansen\\.nuget\\packages\\mstest.testframework\\3.2.0\\mstest.testframework.3.2.0.nupkg.sha512",
+    "C:\\Users\\djohansen\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\djohansen\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\djohansen\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

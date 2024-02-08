@@ -1,0 +1,14 @@
+C:\Siemens\Code\Repos\drofus-console-app\drofus-console-app\bin\Release\net8.0\drofus-console-app.exe
+C:\Siemens\Code\Repos\drofus-console-app\drofus-console-app\bin\Release\net8.0\drofus-console-app.deps.json
+C:\Siemens\Code\Repos\drofus-console-app\drofus-console-app\bin\Release\net8.0\drofus-console-app.runtimeconfig.json
+C:\Siemens\Code\Repos\drofus-console-app\drofus-console-app\bin\Release\net8.0\drofus-console-app.dll
+C:\Siemens\Code\Repos\drofus-console-app\drofus-console-app\bin\Release\net8.0\drofus-console-app.pdb
+C:\Siemens\Code\Repos\drofus-console-app\drofus-console-app\obj\Release\net8.0\drofus-console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Siemens\Code\Repos\drofus-console-app\drofus-console-app\obj\Release\net8.0\drofus-console-app.AssemblyInfoInputs.cache
+C:\Siemens\Code\Repos\drofus-console-app\drofus-console-app\obj\Release\net8.0\drofus-console-app.AssemblyInfo.cs
+C:\Siemens\Code\Repos\drofus-console-app\drofus-console-app\obj\Release\net8.0\drofus-console-app.csproj.CoreCompileInputs.cache
+C:\Siemens\Code\Repos\drofus-console-app\drofus-console-app\obj\Release\net8.0\drofus-console-app.dll
+C:\Siemens\Code\Repos\drofus-console-app\drofus-console-app\obj\Release\net8.0\refint\drofus-console-app.dll
+C:\Siemens\Code\Repos\drofus-console-app\drofus-console-app\obj\Release\net8.0\drofus-console-app.pdb
+C:\Siemens\Code\Repos\drofus-console-app\drofus-console-app\obj\Release\net8.0\drofus-console-app.genruntimeconfig.cache
+C:\Siemens\Code\Repos\drofus-console-app\drofus-console-app\obj\Release\net8.0\ref\drofus-console-app.dll
