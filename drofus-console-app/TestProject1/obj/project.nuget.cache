@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "50q+M1AevqI4HpjJyh4FaYU8EGxrbfp4OnpOA1GbPP/2htP33oaMSR1J/t2JrWCk52Befq5W12QdYQJkD9MPJg==",
+  "dgSpecHash": "oFjJg8yMjylHd7HyMvCXHhjCVBSTxSfJDWMcNF6HzeGXMaXKFqFWUvzEW+yKA0ZkcPRig38srmNcPaeJU4yJQA==",
   "success": true,
-  "projectFilePath": "C:\\Siemens\\Code\\Repos\\drofus-console-app\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Siemens\\Code\\Repos\\drofus\\drofus-console-app\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\djohansen\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\djohansen\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<web_app_test.Models.Person>
+
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex-grow: 1; overflow-y: auto; max-height: 400px;">
+        <h2>Names</h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var person in Model)
+                {
+                    <tr>
+                        <td><a href="#" onclick="getPersonDetails('@person.Name')">@person.Name</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div style="flex-grow: 1;">
+        <h2>Person Details</h2>
+        <table class="table" id="person-details">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Address</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Person details will be dynamically updated here -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function getPersonDetails(name) {
+            $.ajax({
+                type: 'GET',
+                url: '/Home/GetPersonDetails',
+                data: { name: name },
+                success: function (data) {
+                    $('#person-details tbody').empty();
+                    $('#person-details tbody').append('<tr><td>' + data.name + '</td><td>' + data.age + '</td><td>' + data.address + '</td></tr>');
+                },
+                error: function () {
+                    alert('Error fetching person details.');
+                }
+            });
+        }
+    </script>
+}
+
+
